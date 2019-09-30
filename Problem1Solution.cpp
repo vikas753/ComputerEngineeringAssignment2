@@ -1,3 +1,14 @@
+//////////////////////////////////////////////////////////
+//  
+//  Name  : VIKAS VEERABATHINI
+//  NU ID : 001302155
+//  Implement the merge-sort recursive technique
+//  with an extended element in divided arrays
+//  for out-of-bounds check
+//
+////////////////////////////////////////////////////////
+
+
 #include<iostream>
 #include<random>
 #include<vector>

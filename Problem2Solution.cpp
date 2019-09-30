@@ -1,3 +1,14 @@
+///////////////////////////////////////////////////////////////
+// 
+//   Name  : VIKAS VEERABATHINI
+//   NU ID : 001302155 
+//   Implement a merge sort recursive technique by removing 
+//   an extended element from both arrays and adding a check
+//   to see out-of-bounds 
+//
+//////////////////////////////////////////////////////////////
+
+
 #include<iostream>
 #include<random>
 #include<vector>
